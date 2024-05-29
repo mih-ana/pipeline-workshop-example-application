@@ -1,0 +1,5 @@
+name: scheduled 
+
+on:
+  schedule:
+    - cron: '50 14 * * *'
